@@ -9,7 +9,7 @@ The all available project list is described below :
 
 
 1). News app using newsapi for fetching latest news using ajax:
-https://uvutkarshverma.github.io/Javascript-Projects/news/
+<a href= "https://uvutkarshverma.github.io/Javascript-Projects/news/">https://uvutkarshverma.github.io/Javascript-Projects/news/</a> /
 
 2). 
 Stay tuned for more.
