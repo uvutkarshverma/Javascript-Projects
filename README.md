@@ -9,7 +9,10 @@ The all available project list is described below :
 
 
 1). News app using newsapi for fetching latest news using ajax:
-<a href= "https://uvutkarshverma.github.io/Javascript-Projects/news/">https://uvutkarshverma.github.io/Javascript-Projects/news/</a> /
+<a href= "https://uvutkarshverma.github.io/Javascript-Projects/news/">https://uvutkarshverma.github.io/Javascript-Projects/news/</a>
 
-2). 
+2). Simple Alarm app in Javascript using localstorage.
+<a href= "https://uvutkarshverma.github.io/Javascript-Projects/alarm/">https://uvutkarshverma.github.io/Javascript-Projects/alarm/</a>
+
+
 Stay tuned for more.
