@@ -35,4 +35,4 @@ setInterval(() => {
         audio.play()
 
     }
-}, 30000);
+}, 50000);
