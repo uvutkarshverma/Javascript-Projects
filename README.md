@@ -14,5 +14,8 @@ The all available project list is described below :
 2). Simple Alarm app in Javascript using localstorage.
 <a href= "https://uvutkarshverma.github.io/Javascript-Projects/alarm/">https://uvutkarshverma.github.io/Javascript-Projects/alarm/</a>
 
+3). simple page to turn bulb on/off
+<a href= "https://uvutkarshverma.github.io/Javascript-Projects/bulb/">https://uvutkarshverma.github.io/Javascript-Projects/bulb/</a>
+
 
 Stay tuned for more.
