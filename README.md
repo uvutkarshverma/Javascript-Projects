@@ -8,13 +8,18 @@ Projects Using Vanilla Js , Node JS , React Js, etc and Using api and much more 
 The all available project list is described below :
 
 
-1). News app using newsapi for fetching latest news using ajax:
+Word Counter Using React Js 
+< a href="http://tghutkarsh.tk/Javascript/react-text-app/">http://tghutkarsh.tk/Javascript/react-text-app/</a>
+
+
+
+ News app using newsapi for fetching latest news using ajax:
 <a href= "https://uvutkarshverma.github.io/Javascript-Projects/news/">https://uvutkarshverma.github.io/Javascript-Projects/news/</a>
 
-2). Simple Alarm app in Javascript using localstorage.
+ Simple Alarm app in Javascript using localstorage.
 <a href= "https://uvutkarshverma.github.io/Javascript-Projects/alarm/">https://uvutkarshverma.github.io/Javascript-Projects/alarm/</a>
 
-3). simple page to turn bulb on/off
+ simple page to turn bulb on/off
 <a href= "https://uvutkarshverma.github.io/Javascript-Projects/bulb/">https://uvutkarshverma.github.io/Javascript-Projects/bulb/</a>
 
 
