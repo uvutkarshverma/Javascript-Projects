@@ -9,7 +9,7 @@ The all available project list is described below :
 
 
 Word Counter Using React Js 
-< a href="http://tghutkarsh.tk/Javascript/react-text-app/">http://tghutkarsh.tk/Javascript/react-text-app/</a>
+< a href="http://tghutkarsh.tk/Javascript/react-text-app/">http://tghutkarsh.tk/Javascript/react-text-app</a>
 
 
 
