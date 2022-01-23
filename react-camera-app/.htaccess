@@ -1,8 +1,0 @@
-<IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteBase /https://uvutkarshverma.github.io/Javascript-Projects/react-camera-app/
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME} !-l
-RewriteRule . /https://uvutkarshverma.github.io/Javascript-Projects/react-camera-app/index.html [L]
-</IfModule>
