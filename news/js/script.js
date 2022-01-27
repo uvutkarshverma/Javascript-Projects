@@ -1,9 +1,8 @@
 let newsCards = document.getElementById("news-cards");
 
 let xhr = new XMLHttpRequest();
-/* let url = `https://newsapi.org/v2/top-headlines/?sources=google-news&apiKey=ff7082bfbad64a5fb33b2391401d4df8`; */
-/* let url = `https://newsapi.org/v2/top-headlines/?sources=google-news-in&apiKey=ff7082bfbad64a5fb33b2391401d4df8`; */
-let url = `https://newsapi.in/newsapi/news.php?key=OLm0E96sdvboL2mbqhhqLGlsBUFjWv&category=hindi_career`;
+
+let url = `https://newsapi.in/newsapi/news.php?key=[api-key-here]&category=hindi_career`;
 xhr.open("get", url, true);
 xhr.onprogress = function () {
     let loader = `<div class="spinner-border" role="status">
